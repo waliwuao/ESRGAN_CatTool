@@ -14,3 +14,5 @@ CatTool是一个基于ESRGAN的清晰度提升工具
 通过网盘分享的文件：CatTool2.0.exe
 
 链接: https://pan.baidu.com/s/1ivZN7qBpuq4VMhbHW0R9zg?pwd=8614 提取码: 8614
+
+3.0版本基于初始版本优化，对像素较低的图片可以选择先初步提高分辨率，再进行ESRGAN上采样，从而减少锯齿化，得到更加清晰的图像
