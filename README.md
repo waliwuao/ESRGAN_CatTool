@@ -1,6 +1,8 @@
 # ESRGAN_CatTool
 
-（重要）CatTool迭代升级，更名为WaliTool，WaliTool是一个基于ESRGAN的图像视频分辨率提升工具，同时也支持不同算法的图片缩放功能，所有的运算都在CPU上进行
+CatTool迭代升级，更名为WaliTool，WaliTool是一个基于ESRGAN的图像视频分辨率提升工具，同时也支持不同算法的图片缩放功能，所有的运算都在CPU上进行
+
+可以在release中下载exe文件直接运行
 
 CatTool是一个基于ESRGAN的清晰度提升工具
 
